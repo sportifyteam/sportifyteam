@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sportifyteam
 - 👀 I’m interested in creating sportify app.
-- 🌱 I’m currently learning puthon django
+- 🌱 I’m currently building in python django & flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sportify.oneteam@gmail.com
 - 😄 Pronouns: ...
